@@ -21,7 +21,7 @@
 				$_SESSION["user_id"] = $assoc["id"];
 				$_SESSION["user_email"] = $assoc["email"];
 				$_SESSION["user_password"] = $assoc["password"];
-				header("location:../blank/blank-page.php");
+				header("location:../setting/profile.php");
 			}
 			else{
 				$_SESSION["passwordalert"] = "Password Not Match";

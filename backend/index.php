@@ -48,7 +48,7 @@
 							<!-- Form -->
 							<form action="action/login-action.php" method="POST">
 								<div class="form-group">
-									<input class="form-control emailalert" name="email" value="<?php if(isset($_SESSION["emailvalue"])){echo $_SESSION["emailvalue"];} ?>" type="text" placeholder="Email">
+									<input class="form-control emailalert" name="email" value="<?php if(isset($_SESSION["emailvalue"])){echo $_SESSION["emailvalue"];} ?>" type="email" placeholder="Email">
 									<span class="text-danger text-capitalize">
 										<?php 
 											if (isset($_SESSION['emailalert'])) {
@@ -66,7 +66,7 @@
 									</span>
 								</div>
 								<div class="form-group">
-									<input class="form-control passwordalert" name="password" value="<?php if(isset($_SESSION["passwordvalue"])){echo $_SESSION["passwordvalue"];} ?>" type="text" placeholder="Password">
+									<input class="form-control passwordalert" name="password" value="<?php if(isset($_SESSION["passwordvalue"])){echo $_SESSION["passwordvalue"];} ?>" type="password" placeholder="Password">
 									<span class="text-danger text-capitalize">
 										<?php 
 											if (isset($_SESSION['passwordalert'])) {

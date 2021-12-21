@@ -215,12 +215,13 @@
 							<i class="feather-user"></i> 
 							My Profile
 						</a>
-						<a class="dropdown-item" href="login.php">
+						<a class="dropdown-item" href="../action/log-out.php">
 							<i class="feather-power"></i> 
 							Logout
 						</a>
 					</div>
 				</li>
+
 
 			</ul>
 			<!-- /Header Right Menu -->
