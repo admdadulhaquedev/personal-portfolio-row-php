@@ -35,12 +35,12 @@ You can now access the phpmyadmin at http://localhost/phpmyadmin
     
 ## You can now access the project frontend
 
-http://localhost/personal-portfolio-row-php-master
+    http://localhost/personal-portfolio-row-php-master
 
 
 ## For Access Admin
 
-http://localhost/personal-portfolio-row-php-master/backend/
+    http://localhost/personal-portfolio-row-php-master/backend/
 
 - Email : karnoder@gmail.com
 - Password : Password86?
@@ -72,5 +72,5 @@ Beside PHP, this project uses other tools like:
 
 If You face any error Please Contact me
 
-- [Facbook](https://www.facebook.com/amdadulhaquemelonmia)
+    [Facbook](https://www.facebook.com/amdadulhaquemelonmia)
 
