@@ -42,6 +42,8 @@ http://localhost/personal-portfolio-row-php-master
 
 http://localhost/personal-portfolio-row-php-master/backend/
 
+- Email : karnoder@gmail.com
+- Password : Password86?
 
 # Code overview
 
