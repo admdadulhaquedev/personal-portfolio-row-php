@@ -68,11 +68,9 @@ Beside PHP, this project uses other tools like:
 
 ----------
 
-# # See Demo in LIVE SERVER
+# Now Enjoy
 
 If You face any error Please Contact me
 
 - [Facbook](https://www.facebook.com/amdadulhaquemelonmia)
 
-
-# Now Enjoy
