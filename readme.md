@@ -3,32 +3,23 @@
 
 ## Installation
 
-Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/8.x/installation)
-
-
 Clone the repository
 
-    git clone git@github.com:karnoder1998/your-project-repo.git
+    git clone github.com/karnoder1998/personal-portfolio-row-php.git
+    
 
-Switch to the repo folder
+Extract the repo folder
 
-    cd your-project-repo
+    Right Click on Folder and Select Extract Here
 
-Install all the dependencies using composer
+Install XAMPP Softwer
 
-    composer install
+- [XAMPP](https://www.apachefriends.org/download.html)
 
-Copy the example env file and make the required configuration changes in the .env file
+Copy the project and past Your htdocs forler
 
-    cp .env.example .env
+    C:\xampp\htdocs
 
-Generate a new application key
-
-    php artisan key:generate
-
-Generate a new JWT authentication secret key
-
-    php artisan jwt:generate
 
 Run the database migrations (**Set the database connection in .env before migrating**)
 
