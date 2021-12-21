@@ -47,6 +47,12 @@ You can now access the phpmyadmin at http://localhost/phpmyadmin
 
 # Code overview
 
+Beside PHP, this project uses other tools like:
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Font Awesome](https://fontawesome.com/)
+- Javascript
+
 ## Full Project Details
 
 - Login User
@@ -60,11 +66,6 @@ You can now access the phpmyadmin at http://localhost/phpmyadmin
 - Authentication
 - Mail
 
-Beside PHP, this project uses other tools like:
-
-- [Bootstrap](https://getbootstrap.com/)
-- [Font Awesome](https://fontawesome.com/)
-- Javascript
 
 ----------
 
