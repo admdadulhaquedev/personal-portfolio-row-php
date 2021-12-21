@@ -14,16 +14,18 @@ Extract the repo folder
 
 Install XAMPP Softwer
 
-- [XAMPP](https://www.apachefriends.org/download.html)
+- Go to [XAMPP](https://www.apachefriends.org/download.html)
+- Download [XAMPP](https://www.apachefriends.org/download.html)
+- Install XAMPP
 
 Copy the project and past Your htdocs forler
 
     C:\xampp\htdocs
 
 
-Run the database migrations (**Set the database connection in .env before migrating**)
+Run the Apache & MySQL (**XAMPP Control Palen**)
 
-    php artisan migrate
+![Alt text](C:\xampp\htdocs\documentation\1.jpg "images")
 
 Start the local development server
 
