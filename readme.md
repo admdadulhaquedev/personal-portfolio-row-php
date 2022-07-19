@@ -5,7 +5,7 @@
 
 Clone the repository
 
-    git clone github.com/karnoder1998/personal-portfolio-row-php.git
+    git clone github.com/amdadulhaque-dev/personal-portfolio-row-php.git
     
 
 Extract the repo folder
@@ -73,5 +73,5 @@ Beside PHP, this project uses other tools like:
 
 If You face any error Please Contact me
 
-[Facbook](https://www.facebook.com/amdadulhaquemelonmia)
+[Facbook](https://www.facebook.com/amdadulhaquedev)
 
